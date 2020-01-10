@@ -1,3 +1,4 @@
+# Face Recognition using DD-DTCWT and PCA using KNN classifier on ORL dataset
 clear all;
 close all;
 clc;
